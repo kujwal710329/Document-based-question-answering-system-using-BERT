@@ -5,8 +5,8 @@ It's Smart-Question Answering System on short as well as long documents. It can 
 ## Approches:
 
 - Question Answering System Using Simple Split and Cosine Similarity (Naive Approach)
-- Question Answering System Using Word2Vec Embedding Technique
-- Question Answering System with Fine-Tuned BERT Technique
+<!-- - Question Answering System Using Word2Vec Embedding Technique
+- Question Answering System with Fine-Tuned BERT Technique -->
 
 ## Challenges
 
@@ -14,6 +14,6 @@ It's Smart-Question Answering System on short as well as long documents. It can 
 
 ## Pretrained Model and Dataset Used
 
-- word2vec
+<!-- - word2vec -->
 - bert-large-uncased-whole-word-masking-finetuned-squad
 - bert-squad_1.1
